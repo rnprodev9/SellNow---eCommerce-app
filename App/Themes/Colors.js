@@ -1,0 +1,30 @@
+const colors = {
+  background: '#1F0808',
+  clear: 'rgba(0,0,0,0)',
+  facebook: '#3b5998',
+  transparent: 'rgba(0,0,0,0)',
+  silver: '#F7F7F7',
+  steel: '#CCCCCC',
+  error: '#ED0000',
+  ricePaper: 'rgba(255,255,255, 0.75)',
+  frost: '#D8D8D8',
+  cloud: '#AAAAAA',
+  windowTint: 'rgba(0, 0, 0, 0.4)',
+  panther: '#161616',
+  charcoal: '#595959',
+  coal: '#2d2d2d',
+  bloodOrange: '#fb5f26',
+  snow: 'white',
+  ember: 'rgba(164, 0, 48, 0.5)',
+  fire: '#e73536',
+  drawer: 'rgba(30, 30, 29, 0.95)',
+  eggplant: '#251a34',
+  border: '#483F53',
+  banner: '#5F3E63',
+  text: '#E0D7E5',
+  mainColor: '#003CD5',
+  topTransparent: 'rgba(0, 60, 213, 0.20)',
+  main: '#FBA001'
+}
+
+export default colors

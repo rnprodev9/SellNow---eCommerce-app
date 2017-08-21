@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1031450515838",
+    "firebase_url": "https://sellnow-168022.firebaseio.com",
+    "project_id": "sellnow-168022",
+    "storage_bucket": "sellnow-168022.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031450515838:android:66f67d90ea6346e5",
+        "android_client_info": {
+          "package_name": "com.edigits.sellnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031450515838-tq7ulgmd6cv4rgkb11nv6gb9da95kh0j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edigits.sellnow",
+            "certificate_hash": "22d98df1812f2b9f9d1f7aa690bd4b335852e3c7"
+          }
+        },
+        {
+          "client_id": "1031450515838-097eelge2mfn7p9atpnslfolk8a10pcr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edigits.sellnow",
+            "certificate_hash": "30865cfe48553abf190ab0a907e7ecaddc5e8e6a"
+          }
+        },
+        {
+          "client_id": "1031450515838-u4fa2m73niar2nu6pj6lfktapgee5klv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1031450515838-oa0i30r24tdegbd1b597vafckf2son3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edigits.sellnow",
+            "certificate_hash": "aca9239821b734c8b2c209b5ee30a73776de646c"
+          }
+        },
+        {
+          "client_id": "1031450515838-pov6br6lt9319e5dp9som33q0t5mtlj4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzTZxRSVpV5zeNeuFgsODHininJ6tbqqI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031450515838-u4fa2m73niar2nu6pj6lfktapgee5klv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1031450515838-4e7j4ekp55te4h2fu5kqpfn3i57b636i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.SellNow"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SellNow</string>
+    <string name="fb_app_id">660275740831521</string>
+    <string name="fb_login_protocol_scheme">fb660275740831521</string>
+</resources>
